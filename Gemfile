@@ -10,4 +10,3 @@ gem 'minitest-spec-rails'
 gem 'coveralls', require: false
 gem 'redcard'
 gem 'mocha', require: false
-# gem 'font-awesome-sass', '~> 6.1.0'
